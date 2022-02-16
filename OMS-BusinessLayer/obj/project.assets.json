@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ALI Data\\Projects\\OMS\\OMS-BusinessLayer\\OMS-BusinessLayer.csproj",
+      "projectUniqueName": "E:\\ALI Data\\OMS-20220217\\OMS-BusinessLayer\\OMS-BusinessLayer.csproj",
       "projectName": "OMS-BusinessLayer",
-      "projectPath": "E:\\ALI Data\\Projects\\OMS\\OMS-BusinessLayer\\OMS-BusinessLayer.csproj",
+      "projectPath": "E:\\ALI Data\\OMS-20220217\\OMS-BusinessLayer\\OMS-BusinessLayer.csproj",
       "packagesPath": "C:\\Users\\mohsi\\.nuget\\packages\\",
-      "outputPath": "E:\\ALI Data\\Projects\\OMS\\OMS-BusinessLayer\\obj\\",
+      "outputPath": "E:\\ALI Data\\OMS-20220217\\OMS-BusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

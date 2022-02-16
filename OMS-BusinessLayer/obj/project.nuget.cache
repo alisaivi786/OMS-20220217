@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+5VKLVM5hg8cogCZHAP1b8DFjzo+MdxXlQ+JXBZrJLFKSAZMMp4foNM96oahCEpn2aeaJW3J0KP/Z3SDliUaFA==",
+  "dgSpecHash": "pW8oLKufBMeCgUoYuR6gLeuAslxPEbdRV4z7X2HUDMHQ5hJsf5tXcJkFUkFnl0+6vOkzutGBKIBd3ZVwjl9Rdw==",
   "success": true,
-  "projectFilePath": "E:\\ALI Data\\Projects\\OMS\\OMS-BusinessLayer\\OMS-BusinessLayer.csproj",
+  "projectFilePath": "E:\\ALI Data\\OMS-20220217\\OMS-BusinessLayer\\OMS-BusinessLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

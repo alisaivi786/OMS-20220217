@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ALI Data\\Projects\\OMS\\OMS-RESTfull\\OMS-RESTfull.csproj": {}
+    "E:\\ALI Data\\OMS-20220217\\OMS-RESTfull\\OMS-RESTfull.csproj": {}
   },
   "projects": {
-    "E:\\ALI Data\\Projects\\OMS\\OMS-RESTfull\\OMS-RESTfull.csproj": {
+    "E:\\ALI Data\\OMS-20220217\\OMS-RESTfull\\OMS-RESTfull.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ALI Data\\Projects\\OMS\\OMS-RESTfull\\OMS-RESTfull.csproj",
+        "projectUniqueName": "E:\\ALI Data\\OMS-20220217\\OMS-RESTfull\\OMS-RESTfull.csproj",
         "projectName": "OMS-RESTfull",
-        "projectPath": "E:\\ALI Data\\Projects\\OMS\\OMS-RESTfull\\OMS-RESTfull.csproj",
+        "projectPath": "E:\\ALI Data\\OMS-20220217\\OMS-RESTfull\\OMS-RESTfull.csproj",
         "packagesPath": "C:\\Users\\mohsi\\.nuget\\packages\\",
-        "outputPath": "E:\\ALI Data\\Projects\\OMS\\OMS-RESTfull\\obj\\",
+        "outputPath": "E:\\ALI Data\\OMS-20220217\\OMS-RESTfull\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ALI Data\\Projects\\OMS\\OMS-DataAccessLayer\\OMS-DataAccessLayer.csproj",
+      "projectUniqueName": "E:\\ALI Data\\OMS-20220217\\OMS-DataAccessLayer\\OMS-DataAccessLayer.csproj",
       "projectName": "OMS-DataAccessLayer",
-      "projectPath": "E:\\ALI Data\\Projects\\OMS\\OMS-DataAccessLayer\\OMS-DataAccessLayer.csproj",
+      "projectPath": "E:\\ALI Data\\OMS-20220217\\OMS-DataAccessLayer\\OMS-DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\mohsi\\.nuget\\packages\\",
-      "outputPath": "E:\\ALI Data\\Projects\\OMS\\OMS-DataAccessLayer\\obj\\",
+      "outputPath": "E:\\ALI Data\\OMS-20220217\\OMS-DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
