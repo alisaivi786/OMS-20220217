@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4721d1ce-366a-4606-b7c1-d6b2f24649e7": {
+      "ProjectGuid": "4721d1ce-366a-4606-b7c1-d6b2f24649e7",
+      "DisplayName": "OMS-RESTfull",
+      "ColorIndex": 0
+    },
+    "33752a53-5cb1-4e95-9541-1ddaa0eb4c92": {
+      "ProjectGuid": "33752a53-5cb1-4e95-9541-1ddaa0eb4c92",
+      "DisplayName": "OMS-DataAccessLayer",
+      "ColorIndex": 1
+    },
+    "9d3b02e3-a9f1-4b77-bc8a-dd99973bd620": {
+      "ProjectGuid": "9d3b02e3-a9f1-4b77-bc8a-dd99973bd620",
+      "DisplayName": "OMS-BusinessLayer",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

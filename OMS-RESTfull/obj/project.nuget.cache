@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3lezXqicUNrBeApwHN2bjPAeKyF7V1/Y30ap52qekmBV2lzGfrR6IvbLrx2dD7A7ElNd9PuOacixxXLPAgB5eA==",
+  "success": true,
+  "projectFilePath": "E:\\ALI Data\\Projects\\OMS\\OMS-RESTfull\\OMS-RESTfull.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mohsi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\mohsi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mohsi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\mohsi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\mohsi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\mohsi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
